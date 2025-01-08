@@ -53,7 +53,8 @@
 
 ## 4. WBS 🗂️
 
-![image](https://github.com/user-attachments/assets/3cf845e7-52fc-4e6c-b563-9b7610b730c8)
+![image](https://github.com/user-attachments/assets/eb10283c-7d58-4f14-bc8b-1a5a31c6f083)
+
 
 ---
 
