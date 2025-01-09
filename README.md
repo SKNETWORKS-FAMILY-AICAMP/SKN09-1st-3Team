@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/83635dbf-fda6-491e-b615-ef80deefeb20)# 🚗 프로젝트 README
+![image](https://github.com/user-attachments/assets/74d8ce7c-1a70-4e2b-a3d8-954b3a8cec45)![image](https://github.com/user-attachments/assets/d033f31e-fd1f-44ea-baa4-55f0aee1f7ff)![image](https://github.com/user-attachments/assets/83635dbf-fda6-491e-b615-ef80deefeb20)# 🚗 프로젝트 README
 
 ---
 
@@ -66,15 +66,14 @@
 
 ### **핵심 요구사항**
 
-| RQ\_ID  | 기능유형 | 요구사항 설명               | 요구사항 내용                                       | 스트림릿 페이지                   |
+| RQ\_ID  | 기능유형 | 요구사항 설명               | 요구사항 내용                                       |
 | ------- | ---- | --------------------- | --------------------------------------------- | -------------------------- |
-| RQ\_001 | 기능   | 전국 외산차 등록 현황 조회 기능    | 사용자가 전국 외산차 및 국산차 등록 현황을 년도별로 조회할 수 있어야 함.        | 년도별 전국 외산차 등록현황                |
-| RQ\_002 | 기능   | 과거 10년간 등록 데이터 분석     | 2014-2023년 외산차 등록 현황 및 시장 점유율 변화를 분석하고 사용자가 볼 수 있도록 시각화.   | 전국 외산차 등록현황|
-| RQ\_003 | 기능   | 외산차 브랜드별 점유율 분석 기능 | 사용자가 주요 외산차 기업의 시장 점유율 및 등록현황을 조회할 수 있어야 함.   | 브랜드별 외산차 등록현황              |
-| RQ\_004 | 기능   | 과거 10년간 등록 데이터 분석     | 2014-2023년 외산차 브랜드별 등록 현황 및 시장 점유율 변화를 분석하고 사용자가 볼 수 있도록 시각화.   | 브랜드 외산차 등록현황|
-| RQ\_005 | 기능   | 2025년 점유율 예측 기능       | 과거 10년의 데이터를 기반으로 2025년 외산차 점유율을 선형회귀로 예측하여 사용자에게 시각화 자료 제공.     | 2025 TOP 5 외산차 브랜드 점유율 확인가능   |
-| RQ\_006 | 기능   | FAQ 조회    | 사용자가 2025 예측 TOP 5브랜드의 FAQ를 조회 및 검색할 수 있어야 함.        |  2025 TOP 5 외산차 기업 FAQ 조회 |
-
+| RQ\_001 | 기능   | 전국 외산차 등록 현황 조회 기능    | 사용자가 전국 외산차 및 국산차 등록 현황을 년도별로 조회할 수 있어야 함.        | 
+| RQ\_002 | 기능   | 과거 10년간 등록 데이터 분석     | 2014-2023년 외산차 등록 현황 및 시장 점유율 변화를 분석하고 사용자가 볼 수 있도록 시각화.   |
+| RQ\_003 | 기능   | 외산차 브랜드별 점유율 분석 기능 | 사용자가 주요 외산차 기업의 시장 점유율 및 등록현황을 조회할 수 있어야 함.   |
+| RQ\_004 | 기능   | 과거 10년간 등록 데이터 분석     | 2014-2023년 외산차 브랜드별 등록 현황 및 시장 점유율 변화를 분석하고 사용자가 볼 수 있도록 시각화.   | 
+| RQ\_005 | 기능   | 2025년 점유율 예측 기능       | 과거 10년의 데이터를 기반으로 2025년 외산차 점유율을 선형회귀로 예측하여 사용자에게 시각화 자료 제공.     |
+| RQ\_006 | 기능   | FAQ 조회    | 사용자가 2025 예측 TOP 5브랜드의 FAQ를 조회 및 검색할 수 있어야 함.        |  
 ---
 
 ## 6. ERD 🗺️
@@ -90,19 +89,27 @@
 
 1. 🌍 **년도별 전국 외산차 등록현황 조회**
      ![image](https://github.com/user-attachments/assets/ff7d67a2-8910-498b-80a0-78e219ed9759)
-
    - 사용자가 연도별로 외산차 및 국산차 등록 현황을 선택하여 조회할 수 있음.
+     ![image](https://github.com/user-attachments/assets/7c40a5a0-8ada-4fd5-a4b8-3badfa2feaef)
+     ![image](https://github.com/user-attachments/assets/17b46cf7-b665-486d-99df-03370881980d)
    - 등록현황 변화 시각화 자료 제공.
 
-3. 🔍 **브랜드별 외산차 등록현황 및 점유율 분석**
+2. 🔍 **브랜드별 외산차 등록현황 및 점유율 분석**
+     ![image](https://github.com/user-attachments/assets/df2d48c3-0886-4809-b386-4ad61f680dea)
    - 10년간 연도별, 브랜드별 외산차 등록현황과 점유율을 조회할 수 있음
+     ![image](https://github.com/user-attachments/assets/d7674f80-94b9-4d12-9b25-682936ed0fdf)
+     ![image](https://github.com/user-attachments/assets/957081f6-7daf-4752-b68e-a39f53675b41)
    - 관련 시각화 자료 제공
 
-4. 📝 **2025 외산차 브랜드 점유율 예측**
+3. 📝 **2025 외산차 브랜드 점유율 예측**
+     ![image](https://github.com/user-attachments/assets/3bf2c287-4046-43eb-b90a-7a603f014ce7)
    - 선형회귀 모델을 기반으로 2025년 브랜드별 외산차 점유율을 예측하여 제공
+     ![image](https://github.com/user-attachments/assets/c23e0109-55c5-4e35-ad0f-6970cdd864a9)
+     ![image](https://github.com/user-attachments/assets/b2afecce-afe9-4bb8-a9e7-cd617112c87a)
    - 예측 결과에 대한 시각화 자료 제공
 
-3. 📋 **2025 TOP 5 외산차 기업 FAQ 조회**
+4. 📋 **2025 TOP 5 외산차 기업 FAQ 조회**
+   ![image](https://github.com/user-attachments/assets/14305dd0-4501-4b28-9a42-980d67f7346c)
    - FAQ 조회 기능 확인 가능.
 
 ---
