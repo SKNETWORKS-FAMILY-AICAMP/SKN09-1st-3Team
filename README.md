@@ -48,10 +48,11 @@
 
 | **분류**          | **기술/도구**                                                                 |
 |-------------------|------------------------------------------------------------------------------|
-| **언어**          | <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="20">                                                            |
-| **라이브러리**    | NumPy, Pandas, MySQL-Connector, Matplotlib, Seaborn, Scikit-learn            |
-| **데이터베이스**   | MySQL 🗄️                                                                    |
-| **시각화**        | Streamlit, Matplotlib, Seaborn                                               |
+| **언어**          |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)                                                        |
+| **라이브러리**    | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white),![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black), ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)            |
+| **데이터베이스**   | <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="20">                                                           |
+| **WEB**        | ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)                                               |
 | **협업 툴**       | Git, GitHub, Notion 🧑‍🤝‍🧑                                                   |
 | **환경/IDE**      | VSCode   
 ---
