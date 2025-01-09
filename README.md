@@ -9,37 +9,13 @@
 ## 팀원 소개 🌟
 
 
-<p align="center">
-  <span>
-    🧑‍💻 <b>박주은</b><br>
-    <a href="https://github.com/pprain1999">@pprain1999</a><br>
-    <img src="https://github.com/user-attachments/assets/67954a06-e180-492e-b7dd-202668a9b09c" alt="박주은" width="100">
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    👩‍💻 <b>서예찬</b><br>
-    <a href="https://github.com/syc9811">@syc9811</a><br>
-    <img src="https://github.com/user-attachments/assets/efd43c51-4666-4dff-83ce-8ff0c6c84b6f" alt="서예찬" width="100">
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    👩‍💻 <b>이다인</b><br>
-    <a href="https://github.com/daainn">@daainn</a><br>
-    <img src="https://github.com/user-attachments/assets/1390df3b-bfc8-44fe-9220-1aa38884492f" alt="이다인" width="100">
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    👨‍💻 <b>조민훈</b><br>
-    <a href="https://github.com/alche22">@alche22</a><br>
-    <img src="https://github.com/user-attachments/assets/34347395-6119-44b0-9031-71d17fb7ac18" alt="조민훈" width="100">
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span>
-    👩‍💻 <b>조이현</b><br>
-    <a href="https://github.com/SIQRIT">@SIQRIT</a><br>
-    <img src="https://github.com/user-attachments/assets/b152d0e8-6ae8-476d-a443-37c59199ff27" alt="조이현" width="100">
-  </span>
-</p>
+| 이름       | GitHub ID      | 이미지       |
+| ---------- | -------------- | ------------ |
+| 🧑‍💻 박주은     | [@pprain1999](https://github.com/pprain1999)        | ![image](https://github.com/user-attachments/assets/67954a06-e180-492e-b7dd-202668a9b09c) |
+| 👩‍💻 서예찬     | [@syc9811](https://github.com/syc9811)      | ![image](https://github.com/user-attachments/assets/efd43c51-4666-4dff-83ce-8ff0c6c84b6f)|
+| 👩‍💻 이다인     | [@daainn](https://github.com/daainn)      | ![image](https://github.com/user-attachments/assets/1390df3b-bfc8-44fe-9220-1aa38884492f)|
+| 👨‍💻 조민훈     | [@alche22](https://github.com/alche22)        | ![image](https://github.com/user-attachments/assets/34347395-6119-44b0-9031-71d17fb7ac18)|
+| 👩‍💻 조이현     | [@SIQRIT](https://github.com/SIQRIT)      | ![image](https://github.com/user-attachments/assets/b152d0e8-6ae8-476d-a443-37c59199ff27)|
 
 ---
 
