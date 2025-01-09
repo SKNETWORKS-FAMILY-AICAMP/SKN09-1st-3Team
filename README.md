@@ -48,7 +48,7 @@
 
 | **분류**          | **기술/도구**                                                                 |
 |-------------------|------------------------------------------------------------------------------|
-| **언어**          | Python 🐍                                                                    |
+| **언어**          | <img src="![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)">                                                                    |
 | **라이브러리**    | NumPy, Pandas, MySQL-Connector, Matplotlib, Seaborn, Scikit-learn            |
 | **데이터베이스**   | MySQL 🗄️                                                                    |
 | **시각화**        | Streamlit, Matplotlib, Seaborn                                               |
