@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/74d8ce7c-1a70-4e2b-a3d8-954b3a8cec45)![image](https://github.com/user-attachments/assets/d033f31e-fd1f-44ea-baa4-55f0aee1f7ff)![image](https://github.com/user-attachments/assets/83635dbf-fda6-491e-b615-ef80deefeb20)# 🚗 프로젝트 README
-
 ---
 
 ## 1. 팀소개
